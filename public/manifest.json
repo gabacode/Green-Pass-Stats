@@ -1,0 +1,8 @@
+{
+  "short_name": "Green Pass Stats",
+  "name": "Green Pass Stats",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#00d57f",
+  "background_color": "#ffffff"
+}
